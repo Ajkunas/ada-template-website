@@ -106,7 +106,7 @@ img {
 
 header {
   width: 100%; /* Full width of the viewport */
-  height: 100px; /* Set your desired height */
+  height: 200px; /* Set your desired height */
   background-image: url('assets/img/background.JPG'); /* Set the path to your background image */
   background-size: cover; /* Cover the entire header with the background image */
   background-position: center; /* Center the background image */
