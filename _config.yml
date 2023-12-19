@@ -2,7 +2,4 @@ theme: jekyll-theme-minimal
 title: Beer to success 🍻
 description: by Tim Brunner, Dana Kalaaji, Cyril Golaz, Alexander Odermatt and Ajkuna Seipi
 show_downloads: False
-navigation: False 
-google_analytics: UA-XXXXXXXXX-X
-```
-
+navigation: False
