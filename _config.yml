@@ -2,8 +2,4 @@ theme: jekyll-theme-minimal
 title: Beer to success 🍻
 description: A road to the perfect beer !
 show_downloads: False
-navigation:
-  - title: Home
-    url: /
-  - title: Example
-    url: example
+navigation: False 
