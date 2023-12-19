@@ -8,6 +8,22 @@
 
     <link rel="stylesheet" href="{{ '/assets/css/styles.css?v=' | append: site.github.build_revision | relative_url }}">
     <meta name="viewport" content="width=device-width">
+    <style>
+      body {
+        margin: 0;
+        padding: 0;
+      }
+  
+      .wrapper {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+  
+      .header-content {
+        text-align: center;
+      }
+    </style>
   </head>
   <body>
     <div class="wrapper">
@@ -40,7 +56,7 @@
       </section>
       <footer>
         {% if site.github.is_project_page %}
-        <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
+        <p></p>
         {% endif %}
       </footer>
     </div>
