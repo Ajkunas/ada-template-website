@@ -57,6 +57,7 @@ a:hover small {
 .wrapper {
   width:1080px;
   margin:0 auto;
+  padding-top: 100px;
 }
 
 blockquote {
@@ -104,11 +105,14 @@ img {
 }
 
 header {
-  width:270px;
-  margin: 0 auto;
-  float:left;
-  position:fixed;
-  -webkit-font-smoothing:subpixel-antialiased;
+  width: 100%; /* Full width of the viewport */
+  height: 100px; /* Set your desired height */
+  background-color: #fff; /* Background color for the header */
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 1000; /* Set a high z-index to ensure the header is on top */
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Optional: Add a box shadow */
 }
 
 header ul {
@@ -209,7 +213,7 @@ footer {
   }
 
   header {
-    padding-right:1000px;
+    padding-right:500px;
   }
 
   section {
