@@ -55,13 +55,8 @@ a:hover small {
 }
 
 .wrapper {
-  /*width: full;*/
+  width:1080px;
   margin:0 auto;
-  background-color: #999;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
 }
 
 blockquote {
@@ -156,7 +151,7 @@ header ul a:hover {
 }
 
 header ul a:active {
-  background-color:#f0f0f0;
+  background-color:#f4f4f4;
 }
 
 strong {
