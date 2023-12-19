@@ -10,7 +10,7 @@
     <meta name="viewport" content="width=device-width">
     <style>
       body {
-        margin: 0;
+        margin: 10;
         padding: 0;
       }
   
@@ -18,10 +18,21 @@
         display: flex;
         flex-direction: column;
         align-items: center;
+        justify-content: center;
       }
   
       .header-content {
+        width: 100%;
+        max-width: 800px; /* Adjust the max-width as needed */
         text-align: center;
+        margin: 0 auto; /* Center the box horizontally */
+        padding: 20px; /* Add padding for better visual appearance */
+        background-color: #f4f4f4; /* Add a background color for the box */
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Optional: Add a box shadow */
+      }
+  
+      header h1, header p {
+        margin: 0; /* Remove default margins for h1 and p */
       }
     </style>
   </head>
