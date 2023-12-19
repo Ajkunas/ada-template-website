@@ -107,12 +107,17 @@ img {
 header {
   width: 100%; /* Full width of the viewport */
   height: 100px; /* Set your desired height */
-  background-color: #fff; /* Background color for the header */
+  background-image: url('assets/img/background.JPG'); /* Set the path to your background image */
+  background-size: cover; /* Cover the entire header with the background image */
+  background-position: center; /* Center the background image */
   position: fixed;
-  top: 30px;
-  left: 300px;
+  top: 0;
+  left: 0;
   z-index: 1000; /* Set a high z-index to ensure the header is on top */
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Optional: Add a box shadow */
+  display: flex;
+  align-items: center; /* Center vertically */
+  justify-content: center; /* Center horizontally */
 }
 
 header ul {
