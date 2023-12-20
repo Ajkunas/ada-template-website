@@ -31,7 +31,7 @@ header h1 {
   width: 100%;
   text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.1);
   text-align: center;
-  padding-top: 15px;
+  padding-top: 40px;
   padding-bottom: 15px;
   justify-content: center;
 }
@@ -41,8 +41,8 @@ header p {
   color: #5e5d5d;
   text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.1);
   text-align: center;
-  margin: 0 auto;
-  /*margin-left: 800px;*/
+  /*margin: 0 auto;*/
+  margin-left: 0 auto;
   margin-top: 50px;
   width: 100%;
 }
