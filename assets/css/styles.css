@@ -10,7 +10,7 @@ header {
   width: 100%; /* Full width of the viewport */
   height: 130px; /* Set your desired height */
   background-color: #f4f4f4;
-  background-image: url('assets/img/background.JPG'); /* Set the path to your background image */
+  background-image: url('https://github.com/Ajkunas/ada-template-website/blob/master/assets/img/background.JPG'); /* Set the path to your background image */
   background-size: cover; /* Cover the entire header with the background image */
   background-position: center; /* Center the background image */
   position: fixed;
@@ -29,15 +29,20 @@ header h1 {
   margin-left: 600px;
   line-height: 100%;
   text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  justify-content: center;
+  align-items: center;
 }
 
-header p.view {
+header p {
   font-size: 11px;
   color: #999;
   text-align: center;
   margin: 0 auto;
-  margin-top: 10px;
-  width: 270px;
+  margin-top: 100px;
+  width: 500px;
 }
 
 h1, h2, h3, h4, h5, h6 {
