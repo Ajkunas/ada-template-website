@@ -26,9 +26,9 @@ header h1 {
   font-weight: 700;
   color: black;
   /*margin: 0 auto; */
-  margin-left: 750px;
+  margin-left: 700px;
   line-height: 100%;
-  width: 1000px;
+  width: 100%;
   text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.1);
   text-align: center;
   padding-top: 15px;
@@ -37,8 +37,9 @@ header h1 {
 }
 
 header p {
-  font-size: 20px;
-  color: #999;
+  font-size: 15px;
+  color: #5e5d5d;
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.1);
   text-align: center;
   margin: 0 auto;
   /*margin-left: 800px;*/
