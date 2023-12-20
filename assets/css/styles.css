@@ -104,7 +104,7 @@ img {
   max-width:100%;
 }
 
-div.wrapper header {
+header {
   width: 100%; /* Full width of the viewport */
   height: 150px; /* Set your desired height */
   background-color: #f4f4f4;
@@ -117,11 +117,9 @@ div.wrapper header {
   z-index: 1000; /* Set a high z-index to ensure the header is on top */
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Optional: Add a box shadow */
   display: flex;
-  align-items: center;
-  justify-content: center;
 }
 
-div.wrapper header h1 p {
+header h1 p {
   font-size: 30px;
   font-weight: 500;
   color: black;
