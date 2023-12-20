@@ -6,6 +6,32 @@ body {
   font-weight:400;
 }
 
+header {
+  width: 100%; /* Full width of the viewport */
+  height: 150px; /* Set your desired height */
+  background-color: #f4f4f4;
+  background-image: url('assets/img/background.JPG'); /* Set the path to your background image */
+  background-size: cover; /* Cover the entire header with the background image */
+  background-position: center; /* Center the background image */
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 1000; /* Set a high z-index to ensure the header is on top */
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Optional: Add a box shadow */
+  display: flex;
+}
+
+header h1 {
+  font-size: 30px;
+  font-weight: 500;
+  color: black;
+  margin: 0 auto;
+  line-height: 100%;
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  justify-content: center;
+}
+
 h1, h2, h3, h4, h5, h6 {
   color:#222;
   margin:0 0 20px;
@@ -104,31 +130,6 @@ img {
   max-width:100%;
 }
 
-header {
-  width: 100%; /* Full width of the viewport */
-  height: 150px; /* Set your desired height */
-  background-color: #f4f4f4;
-  background-image: url('assets/img/background.JPG'); /* Set the path to your background image */
-  background-size: cover; /* Cover the entire header with the background image */
-  background-position: center; /* Center the background image */
-  position: fixed;
-  top: 0;
-  left: 0;
-  z-index: 1000; /* Set a high z-index to ensure the header is on top */
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Optional: Add a box shadow */
-  display: flex;
-}
-
-header h1 {
-  font-size: 30px;
-  font-weight: 500;
-  color: black;
-  margin: 0 auto;
-  line-height: 100%;
-  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.1);
-  text-align: center;
-  justify-content: center;
-}
 
 header ul {
   list-style:none;
