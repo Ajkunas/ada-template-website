@@ -32,6 +32,7 @@ header h1 {
   line-height: 100%;
   width: 100%;
   text-shadow: 10px 10px 10px rgba(233, 231, 231, 0.785);
+  text-decoration: double;
   text-align: center;
   padding-top: 40px;
   justify-content: center;
