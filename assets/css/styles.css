@@ -12,7 +12,7 @@ header {
   background-color: #f4f4f4;
   background-image: url(https://www.sfy.org.uk/wp-content/uploads/2021/03/Beer-Birthday-3x1-WEB-scaled.jpg); /* Set the path to your background image */
   background-size: cover; /* Cover the entire header with the background image */
-  background-position: center calc(50% - 20px); /* Center the background image */
+  background-position: center calc(50% - 100px); /* Center the background image */
   position: fixed;
   top: 0;
   left: 0;
