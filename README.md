@@ -10,6 +10,8 @@ Our analysis is monstly based on time series analysis coupled with statistical t
 
 Let's go together on the road to the **perfect** beer ! 
 
+# First step to the perfect beer: our focus
+
 ## Who are our consumers ? 
 
 It is important to observe the provenance of the raters in the datasets. Since we focus on an analysis per month, depending on the location of the users and their lifestyle, it might change considerably when they come from different parts of the world.
