@@ -12,11 +12,13 @@ Let's go together on the road to the **perfect** beer !
 
 # First step to the perfect beer: Our focus
 
+Before beggining to analyze the attributes, we need to determine our focus on consumers and state our assumptions. 
+
 ## Who are our consumers ? 
 
 It is important to observe the provenance of the raters in the datasets. Since we focus on an analysis per month, depending on the location of the users and their lifestyle, it might change considerably when they come from different parts of the world.
 
-![Number of unique consumers](./assets/img/users.png)
+![Number of unique consumers](./assets/html/number_of_users_per_country.html)
 
 ## Header 2
 
