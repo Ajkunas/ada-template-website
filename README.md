@@ -10,9 +10,11 @@ Our analysis is monstly based on time series analysis coupled with statistical t
 
 Let's go together on the road to the **perfect** beer ! 
 
-# Header 1
+# Who are our consumers ? 
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+It is important to observe the provenance of the raters in the datasets. Since we focus on an analysis per month, depending on the location of the users and their lifestyle, it might change considerably when they come from different parts of the world.
+
+![Number of unique consumers](./assets/img/users.png)
 
 ## Header 2
 
