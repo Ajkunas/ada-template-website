@@ -1,15 +1,12 @@
 
 # 🍻 Motivation 🍻
 
-_Brewing the perfect beer is a task many set out for and only a few, if any, even achieve. When it comes to crafting a beer, choosing the right ingredients, temperature, brewing equipment and overall recipe design is crucial while leading to an explosion of possibilities. It is this vastness of possibilities that captivates so many brewers around the globe chasing the perfect beer. With our project we aim to break the flood of information supplied by the beer rating websites BeerAdvocate and RateBeer down into easily digestible pieces of information, leading to meaningful insight for interested readers and might even increase their chances of brewing a well liked beer. Do you prefer to stick to the same three popular types of beer that you know, or would you be ready to immerge yourself into the world of beers and discover a choice that perfectly matches the mood of the month ?_
+_Brewing the perfect beer is a task many set out for and only a few, if any, even achieve. When it comes to crafting a beer, choosing the right ingredients, temperature, brewing equipment and overall recipe design is crucial while leading to an explosion of possibilities. It is this vastness of possibilities that captivates so many brewers around the globe chasing the perfect beer. With our project we aim to break the flood of information supplied by the beer rating websites BeerAdvocate and RateBeer down into easily digestible pieces of information, leading to meaningful insight for interested readers and might even increase their chances of brewing a well liked beer._
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+**Do you prefer to stick to the same three popular types of beer that you know, or would you be ready to immerge yourself into the world of beers and discover a choice that perfectly matches the mood of the month ?**
 
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+To do so, we will analyze the volume of alcohol, the location of breweries and the aroma, taste, appearance and palate ratings for each month. Our goal is to extract the best combinations for each month to recommend a consumer and/or brewery the most **popular** combination ! 
+Our analysis is monstly based on time series analysis coupled with statistical tests and keywords analysis. 
 
 # Header 1
 
