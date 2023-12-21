@@ -8,6 +8,8 @@ _Brewing the perfect beer is a task many set out for and only a few, if any, eve
 To do so, we will analyze the volume of alcohol, the location of breweries and the aroma, taste, appearance and palate ratings for each month. Our goal is to extract the best combinations for each month to recommend a consumer and/or brewery the most **popular** combination ! 
 Our analysis is monstly based on time series analysis coupled with statistical tests and keywords analysis. 
 
+Let's go together on the road to the **perfect** beer ! 
+
 # Header 1
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
