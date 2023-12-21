@@ -206,8 +206,11 @@ header ul a strong {
 }
 
 section {
-  width:1000px;
-  float:right;
+  width: 100%;
+  max-width: 1000px;
+  margin: 0 auto;    /* Center the section horizontally */
+  float: none;
+  /*float:right;*/
   padding-bottom:50px;
   padding-top: 50px;
 }
