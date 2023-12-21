@@ -16,7 +16,7 @@ Before beggining to analyze the attributes, we need to determine our focus on co
 
 It is important to observe the provenance of the raters in the datasets. Since we focus on an analysis per month, depending on the location of the users and their lifestyle, it might change considerably when they come from different parts of the world.
 
-{% include number_of_users_per_country.html  %}
+{% include nb_unique_users.html  %}
 
 ## Header 2
 
