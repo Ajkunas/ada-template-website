@@ -10,7 +10,7 @@ Our analysis is monstly based on time series analysis coupled with statistical t
 
 Let's go together on the road to the **perfect** beer ! 
 
-# First step to the perfect beer: our focus
+# First step to the perfect beer: Our focus
 
 ## Who are our consumers ? 
 
